@@ -9,7 +9,7 @@ Image Search
 ## 2. Generate World Map
   - Generate Fantasy World Map
   - Do bijection, 1to1 with locations on tool for Image & Location
-## World out world
+## Map Out World
   - With map data and locations
 ## Port to Game Engine that Support VR
 ## Fantasy Travel
