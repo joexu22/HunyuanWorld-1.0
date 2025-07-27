@@ -1,3 +1,22 @@
+# World Generator Architecture
+
+## 1. Gather Image
+Artbreeder
+Image Search
+  - Yandex
+  - Pinterest
+  - etc. (Search Engines/Stock Photography)
+## 2. Generate World Map
+  - Generate Fantasy World Map
+  - Do bijection, 1to1 with locations on tool for Image & Location
+## World out world
+  - With map data and locations
+## Port to Game Engine that Support VR
+## Fantasy Travel
+## ???
+## Profit
+
+
 [中文阅读](README_zh_cn.md)
 
 <p align="center">
